@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://cdn.dribbble.com/users/45697/screenshots/4804383/24fps.gif" alt="Kedar200's profile picture">
+    <img src="https://github.com/Kedar200/Kedar200/blob/main/24fps.gif" alt="Kedar200's profile picture">
 
  <h1>Hi, I'm Kedar,</h1> 
 
