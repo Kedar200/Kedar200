@@ -1,5 +1,5 @@
 <div align="center">
-https://github.com/Kedar200/Kedar200/blob/main/24.ts"
+<video src="https://github.com/Kedar200/Kedar200/blob/main/24.ts">
 
  <h1>Hi, I'm Kedar,</h1> 
 
