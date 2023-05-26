@@ -1,9 +1,9 @@
 <div align="center">
     <img src="https://cdn.dribbble.com/users/45697/screenshots/4804383/24fps.gif" alt="Kedar200's profile picture">
-</div>
+
  <h1>Hi, I'm Kedar,</h1> 
 
-
+</div>
 
 <h2 align="center">About Me</h2>
 Passionate bug hunter and perpetual learner in computer science, dedicated to optimizing software and embracing new coding adventures for impactful contributions
