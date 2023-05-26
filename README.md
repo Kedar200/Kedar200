@@ -1,5 +1,5 @@
 <div align="center">
-![24fps](https://github.com/Kedar200/Kedar200/assets/83753201/88add941-2318-4a50-9bc9-f66d3493c3c8)
+    <img src="[https://github-readme-stats.vercel.app/api?username=kedar200&show_icons=true&theme=radical](https://github-production-user-asset-6210df.s3.amazonaws.com/83753201/241301357-88add941-2318-4a50-9bc9-f66d3493c3c8.gif)" alt="Kedar200's GitHub Stats">
 
  <h1>Hi, I'm Kedar,</h1> 
 
