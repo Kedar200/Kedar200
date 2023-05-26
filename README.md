@@ -1,5 +1,5 @@
 <div align="center">
-[https://github.com/Kedar200/Kedar200/blob/main/24.ts](https://github.com/Kedar200/Kedar200/blob/main/24.ts)
+![24fps](https://github.com/Kedar200/Kedar200/assets/83753201/88add941-2318-4a50-9bc9-f66d3493c3c8)
 
  <h1>Hi, I'm Kedar,</h1> 
 
